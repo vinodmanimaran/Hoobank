@@ -29,7 +29,7 @@ const Bussiness = () => {
           You do the business,<br className='sm:block hidden' /> We&apos;ll handle the money.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+             Discover a smarter way to handle your business finances.Our banking and financial services provide you with comprehensive solutions, from efficient payment processing to expert financial advice.Trust us to optimize your financial operations, so you can concentrate on expanding your business.
         </p>
         <Button styles={`mt-10`} />
       </div>
